@@ -301,11 +301,12 @@ This project demonstrates concepts from:
 
 ---
 
-# Screenshots
+<!-- # Screenshots
 
 Add dashboard screenshots here after deployment.
 
----
+-->
+
 
 # Author
 
